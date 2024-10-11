@@ -1,0 +1,16 @@
+{
+  "watch": [
+    "app.js",
+    "config.js",
+    "controllers/",
+    "models/",
+    "game/",
+    "utils/"
+  ],
+  "ext": "js",
+  "ignore": [
+    "node_modules/",
+    "logs/"
+  ],
+  "exec": "node app.js"
+}
